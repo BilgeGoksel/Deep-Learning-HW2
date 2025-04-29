@@ -72,6 +72,8 @@ Bu projede, derin öğrenme ve makine öğrenmesi yaklaşımları kullanılarak 
 
 Karşılaştırmalı Test Doğruluk Grafiği (Tüm Modeller)
 
+![Test Doğrulukları](test_acc_grafik.png)
+
 Grafik: SimpleCNN, ImprovedCNN (MNIST) ve VGG16 (CIFAR-10) modellerinin epoch bazlı test doğruluklarının karşılaştırılması
 ---
 
@@ -97,4 +99,5 @@ Grafik: SimpleCNN, ImprovedCNN (MNIST) ve VGG16 (CIFAR-10) modellerinin epoch ba
 
 - Modellerin tam kodları GitHub deposunda paylaşılmıştır.
 - Proje Python 3.8+, PyTorch 1.9+, torchvision 0.10+ sürümleriyle test edilmiştir.
+- Modellerin sonuç çıktıları sonuclar.txt dosyasında yer almaktadır.
 
